@@ -1,83 +1,117 @@
-# Hi there 👋, I'm Yousef Abu Shanab
+# Yousuf Abu Shanab
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youzarsiph.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youzarsiph/)
+[![GitHub followers](https://img.shields.io/github/followers/youzarsiph?style=social)](https://github.com/youzarsiph)
+[![GitHub stars](https://img.shields.io/github/stars/youzarsiph?style=social)](https://github.com/youzarsiph)
 
-I'm a Software Engineer from Syria.
+Yousuf Abu Shanab is a seasoned Software Engineer with a robust background in backend, frontend, mobile, and full-stack development. Based in Syria, he leverages his technical expertise and innovative problem-solving skills to deliver premium solutions for every project.
 
-- 🔭 I’m currently working on AppVerse, Snippets, Docs...
-- 🌱 I’m currently learning Rust, AI, DevOps...
-- 💬 Ask me about Python, Django, DRF, React.js, Next.js...
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/youzarsiph)
+## Core Competencies
 
-## 🛠️ My Skills
+- **Programming Languages**: Proficient in Python, TypeScript, and Rust.
+- **Web Frameworks**: Experienced with Django, React, and Next.js.
+- **DevOps & CI/CD**: Skilled in implementing Continuous Integration/Continuous Deployment (CI/CD) and DevOps practices.
 
-### Languages
+## Open Source Projects
 
-![git logo](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![python logo](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![javascript logo](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![typescript logo](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![html5 logo](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![css3 logo](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![markdown logo](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
-![kotlin logo](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![dart logo](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![c++ logo](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![rust logo](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-![mysql logo](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![postgresql logo](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![sqlite logo](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+### Command-Line Tools
 
-### Frameworks and Libraries
+- **CodePilot CLI**: A highly customizable AI-driven command-line assistant designed to enhance coding workflows.
+  - [![GitHub repo stars](https://img.shields.io/github/stars/youzarsiph/code-pilot-cli.svg)](https://github.com/youzarsiph/code-pilot-cli)
+  - [![GitHub forks](https://img.shields.io/github/forks/youzarsiph/code-pilot-cli.svg?style=social&label=Fork&logo=github)](https://github.com/youzarsiph/code-pilot-cli/forks)
+  - [![GitHub pull requests](https://img.shields.io/github/issues-pr/youzarsiph/code-pilot-cli.svg?logo=github)](https://github.com/youzarsiph/code-pilot-cli/pulls)
+  - [![GitHub repo issues](https://img.shields.io/github/issues/youzarsiph/code-pilot-cli.svg)](https://github.com/youzarsiph/code-pilot-cli/issues)
+  - [![GitHub repo license](https://img.shields.io/github/license/youzarsiph/code-pilot-cli.svg)](https://github.com/youzarsiph/code-pilot-cli/blob/main/LICENSE)
+  - [![Contributors](https://img.shields.io/github/contributors/youzarsiph/code-pilot-cli.svg?logo=github)](https://github.com/youzarsiph/code-pilot-cli/graphs/contributors)
+  - [![Languages](https://img.shields.io/github/languages/top/youzarsiph/code-pilot-cli.svg?logo=github)](https://github.com/youzarsiph/code-pilot-cli)
+- **CodeStar CLI**: An AI-powered coding assistant tailored for command-line environments.
+  - [![GitHub repo stars](https://img.shields.io/github/stars/youzarsiph/code-star-cli.svg)](https://github.com/youzarsiph/code-star-cli)
+  - [![GitHub forks](https://img.shields.io/github/forks/youzarsiph/code-star-cli.svg?style=social&label=Fork&logo=github)](https://github.com/youzarsiph/code-star-cli/forks)
+  - [![GitHub pull requests](https://img.shields.io/github/issues-pr/youzarsiph/code-star-cli.svg?logo=github)](https://github.com/youzarsiph/code-star-cli/pulls)
+  - [![GitHub repo issues](https://img.shields.io/github/issues/youzarsiph/code-star-cli.svg)](https://github.com/youzarsiph/code-star-cli/issues)
+  - [![GitHub repo license](https://img.shields.io/github/license/youzarsiph/code-star-cli.svg)](https://github.com/youzarsiph/code-star-cli/blob/main/LICENSE)
+  - [![Contributors](https://img.shields.io/github/contributors/youzarsiph/code-star-cli.svg?logo=github)](https://github.com/youzarsiph/code-star-cli/graphs/contributors)
+  - [![Languages](https://img.shields.io/github/languages/top/youzarsiph/code-star-cli.svg?logo=github)](https://github.com/youzarsiph/code-star-cli)
 
-![django logo](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![nodejs logo](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![react logo](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![next.js logo](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![bootstrap logo](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![tailwind css logo](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge)
-![flutter logo](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![android logo](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge)
-![unreal engine logo](https://img.shields.io/badge/UnrealEngine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)
+### DRF Enhancements
 
-### Tools
+- **drf-redesign**: A modern redesign of the browsable API interface for Django Rest Framework, offering improved usability and aesthetic enhancements.
+  - [![GitHub repo stars](https://img.shields.io/github/stars/youzarsiph/drf-redesign.svg)](https://github.com/youzarsiph/drf-redesign)
+  - [![GitHub forks](https://img.shields.io/github/forks/youzarsiph/drf-redesign.svg?style=social&label=Fork&logo=github)](https://github.com/youzarsiph/drf-redesign/forks)
+  - [![GitHub pull requests](https://img.shields.io/github/issues-pr/youzarsiph/drf-redesign.svg?logo=github)](https://github.com/youzarsiph/drf-redesign/pulls)
+  - [![GitHub repo issues](https://img.shields.io/github/issues/youzarsiph/drf-redesign.svg)](https://github.com/youzarsiph/drf-redesign/issues)
+  - [![GitHub repo license](https://img.shields.io/github/license/youzarsiph/drf-redesign.svg)](https://github.com/youzarsiph/drf-redesign/blob/main/LICENSE)
+  - [![Contributors](https://img.shields.io/github/contributors/youzarsiph/drf-redesign.svg?logo=github)](https://github.com/youzarsiph/drf-redesign/graphs/contributors)
+  - [![Languages](https://img.shields.io/github/languages/top/youzarsiph/drf-redesign.svg?logo=github)](https://github.com/youzarsiph/drf-redesign)
+- **drf-material**: Implements Material Design principles to elevate the browsable API experience of Django Rest Framework.
+  - [![GitHub repo stars](https://img.shields.io/github/stars/youzarsiph/drf-material.svg)](https://github.com/youzarsiph/drf-material)
+  - [![GitHub forks](https://img.shields.io/github/forks/youzarsiph/drf-material.svg?style=social&label=Fork&logo=github)](https://github.com/youzarsiph/drf-material/forks)
+  - [![GitHub pull requests](https://img.shields.io/github/issues-pr/youzarsiph/drf-material.svg?logo=github)](https://github.com/youzarsiph/drf-material/pulls)
+  - [![GitHub repo issues](https://img.shields.io/github/issues/youzarsiph/drf-material.svg)](https://github.com/youzarsiph/drf-material/issues)
+  - [![GitHub repo license](https://img.shields.io/github/license/youzarsiph/drf-material.svg)](https://github.com/youzarsiph/drf-material/blob/main/LICENSE)
+  - [![Contributors](https://img.shields.io/github/contributors/youzarsiph/drf-material.svg?logo=github)](https://github.com/youzarsiph/drf-material/graphs/contributors)
+  - [![Languages](https://img.shields.io/github/languages/top/youzarsiph/drf-material.svg?logo=github)](https://github.com/youzarsiph/drf-material)
 
-![linux logo](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![bash logo](https://img.shields.io/badge/GNUBash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![powershell logo](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=black&style=for-the-badge)
-![npm logo](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
-![figma logo](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![github logo](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![github actions logo](https://img.shields.io/badge/GitHubActions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
-![android studio logo](https://img.shields.io/badge/AndroidStudio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge)
-![vscode logo](https://img.shields.io/badge/VisualStudioCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+## Project Templates
 
-## 🚀 Projects
+I have developed several project templates to accelerate the setup of various applications:
 
-Here are some of my projects. Do check them out!
+- **typer-cli-template**: A Python Typer CLI template integrated with AI capabilities.
+  - [![GitHub repo stars](https://img.shields.io/github/stars/youzarsiph/typer-cli-template.svg)](https://github.com/youzarsiph/typer-cli-template)
+  - [![GitHub forks](https://img.shields.io/github/forks/youzarsiph/typer-cli-template.svg?style=social&label=Fork&logo=github)](https://github.com/youzarsiph/typer-cli-template/forks)
+  - [![GitHub pull requests](https://img.shields.io/github/issues-pr/youzarsiph/typer-cli-template.svg?logo=github)](https://github.com/youzarsiph/typer-cli-template/pulls)
+  - [![GitHub repo issues](https://img.shields.io/github/issues/youzarsiph/typer-cli-template.svg)](https://github.com/youzarsiph/typer-cli-template/issues)
+  - [![GitHub repo license](https://img.shields.io/github/license/youzarsiph/typer-cli-template.svg)](https://github.com/youzarsiph/typer-cli-template/blob/main/LICENSE)
+  - [![Contributors](https://img.shields.io/github/contributors/youzarsiph/typer-cli-template.svg?logo=github)](https://github.com/youzarsiph/typer-cli-template/graphs/contributors)
+  - [![Languages](https://img.shields.io/github/languages/top/youzarsiph/typer-cli-template.svg?logo=github)](https://github.com/youzarsiph/typer-cli-template)
+- **expo-react-native-paper**: An Expo project template leveraging React Native Paper for UI components, equipped with Expo Router, internationalization (I18N), CI/CD, and more.
+  - [![GitHub repo stars](https://img.shields.io/github/stars/youzarsiph/expo-react-native-paper.svg)](https://github.com/youzarsiph/expo-react-native-paper)
+  - [![GitHub forks](https://img.shields.io/github/forks/youzarsiph/expo-react-native-paper.svg?style=social&label=Fork&logo=github)](https://github.com/youzarsiph/expo-react-native-paper/forks)
+  - [![GitHub pull requests](https://img.shields.io/github/issues-pr/youzarsiph/expo-react-native-paper.svg?logo=github)](https://github.com/youzarsiph/expo-react-native-paper/pulls)
+  - [![GitHub repo issues](https://img.shields.io/github/issues/youzarsiph/expo-react-native-paper.svg)](https://github.com/youzarsiph/expo-react-native-paper/issues)
+  - [![GitHub repo license](https://img.shields.io/github/license/youzarsiph/expo-react-native-paper.svg)](https://github.com/youzarsiph/expo-react-native-paper/blob/main/LICENSE)
+  - [![Contributors](https://img.shields.io/github/contributors/youzarsiph/expo-react-native-paper.svg?logo=github)](https://github.com/youzarsiph/expo-react-native-paper/graphs/contributors)
+  - [![Languages](https://img.shields.io/github/languages/top/youzarsiph/expo-react-native-paper.svg?logo=github)](https://github.com/youzarsiph/com/youzarsiph/expo-react-native-paper)
+- **expo-material**: Enhances Expo's default setup with Material Design elements.
+  - [![GitHub repo stars](https://img.shields.io/github/stars/youzarsiph/expo-material.svg)](https://github.com/youzarsiph/expo-material)
+  - [![GitHub forks](https://img.shields.io/github/forks/youzarsiph/expo-material.svg?style=social&label=Fork&logo=github)](https://github.com/youzarsiph/expo-material/forks)
+  - [![GitHub pull requests](https://img.shields.io/github/issues-pr/youzarsiph/expo-material.svg?logo=github)](https://github.com/youzarsiph/expo-material/pulls)
+  - [![GitHub repo issues](https://img.shields.io/github/issues/youzarsiph/expo-material.svg)](https://github.com/youzarsiph/expo-material/issues)
+  - [![GitHub repo license](https://img.shields.io/github/license/youzarsiph/expo-material.svg)](https://github.com/youzarsiph/expo-material/blob/main/LICENSE)
+  - [![Contributors](https://img.shields.io/github/contributors/youzarsiph/expo-material.svg?logo=github)](https://github.com/youzarsiph/expo-material/graphs/contributors)
+  - [![Languages](https://img.shields.io/github/languages/top/youzarsiph/expo-material.svg?logo=github)](https://github.com/youzarsiph/expo-material)
+- **expo-material-tabs**: Expands the Expo Material template with tab navigation.
+  - [![GitHub repo stars](https://img.shields.io/github/stars/youzarsiph/expo-material-tabs.svg)](https://github.com/youzarsiph/expo-material-tabs)
+  - [![GitHub forks](https://img.shields.io/github/forks/youzarsiph/expo-material-tabs.svg?style=social&label=Fork&logo=github)](https://github.com/youzarsiph/expo-material-tabs/forks)
+  - [![GitHub pull requests](https://img.shields.io/github/issues-pr/youzarsiph/expo-material-tabs.svg?logo=github)](https://github.com/youzarsiph/expo-material-tabs/pulls)
+  - [![GitHub repo issues](https://img.shields.io/github/issues/youzarsiph/expo-material-tabs.svg)](https://github.com/youzarsiph/expo-material-tabs/issues)
+  - [![GitHub repo license](https://img.shields.io/github/license/youzarsiph/expo-material-tabs.svg)](https://github.com/youzarsiph/expo-material-tabs/blob/main/LICENSE)
+  - [![Contributors](https://img.shields.io/github/contributors/youzarsiph/expo-material-tabs.svg?logo=github)](https://github.com/youzarsiph/expo-material-tabs/graphs/contributors)
+  - [![Languages](https://img.shields.io/github/languages/top/youzarsiph/expo-material-tabs.svg?logo=github)](https://github.com/youzarsiph/expo-material-tabs)
+- **expo-material-drawer**: Integrates a side drawer navigation system into the `expo-material` template.
+  - [![GitHub repo stars](https://img.shields.io/github/stars/youzarsiph/expo-material-drawer.svg)](https://github.com/youzarsiph/expo-material-drawer)
+  - [![GitHub forks](https://img.shields.io/github/forks/youzarsiph/expo-material-drawer.svg?style=social&label=Fork&logo=github)](https://github.com/youzarsiph/expo-material-drawer/forks)
+  - [![GitHub pull requests](https://img.shields.io/github/issues-pr/youzarsiph/expo-material-drawer.svg?logo=github)](https://github.com/youzarsiph/expo-material-drawer/pulls)
+  - [![GitHub repo issues](https://img.shields.io/github/issues/youzarsiph/expo-material-drawer.svg)](https://github.com/youzarsiph/expo-material-drawer/issues)
+  - [![GitHub repo license](https://img.shields.io/github/license/youzarsiph/expo-material-drawer.svg)](https://github.com/youzarsiph/expo-material-drawer/blob/main/LICENSE)
+  - [![Contributors](https://img.shields.io/github/contributors/youzarsiph/expo-material-drawer.svg?logo=github)](https://github.com/youzarsiph/expo-material-drawer/graphs/contributors)
+  - [![Languages](https://img.shields.io/github/languages/top/youzarsiph/expo-material-drawer.svg?logo=github)](https://github.com/youzarsiph/expo-material-drawer)
+- **expo-drive**: A template replicating the Google Drive user interface, providing a familiar and intuitive design.
+  - [![GitHub repo stars](https://img.shields.io/github/stars/youzarsiph/expo-drive.svg)](https://github.com/youzarsiph/expo-drive)
+  - [![GitHub forks](https://img.shields.io/github/forks/youzarsiph/expo-drive.svg?style=social&label=Fork&logo=github)](https://github.com/youzarsiph/expo-drive/forks)
+  - [![GitHub pull requests](https://img.shields.io/github/issues-pr/youzarsiph/expo-drive.svg?logo=github)](https://github.com/youzarsiph/expo-drive/pulls)
+  - [![GitHub repo issues](https://img.shields.io/github/issues/youzarsiph/expo-drive.svg)](https://github.com/youzarsiph/expo-drive/issues)
+  - [![GitHub repo license](https://img.shields.io/github/license/youzarsiph/expo-drive.svg)](https://github.com/youzarsiph/expo-drive/blob/main/LICENSE)
+  - [![Contributors](https://img.shields.io/github/contributors/youzarsiph/expo-drive.svg?logo=github)](https://github.com/youzarsiph/expo-drive/graphs/contributors)
+  - [![Languages](https://img.shields.io/github/languages/top/youzarsiph/expo-drive.svg?logo=github)](https://github.com/youzarsiph/expo-drive)
 
-### Project 1: AppVerse
+## Community Contributions
 
-- Description: A multi platform app store.
-- Technologies Used: Python, Django and DRF.
+Active contributor to and supporter of popular open source projects, including:
 
-### Project 2: Snippets
+- **Django Rest Framework**: Contributed to one of the most widely used RESTful web service frameworks for Python.
+- **Expo**: Enhanced the platform that simplifies the development and deployment of universal React applications.
+- **rust-bert**: Assisted in advancing Rust-based implementations for transformer models, bridging deep learning capabilities with the Rust ecosystem.
 
-- Description: Source code image creation tool for sharing.
-- Technologies Used: React.js, Next.js and TailwindCSS.
+## Contact & Collaboration
 
-### Project 3: Docs
-
-- Description: A word processor.
-- Technologies Used: React.js, Next.js and TailwindCSS.
-  
-For more projects check out my repos.
-
-## 🔥 Stats
-
-![streak graph](https://streak-stats.demolab.com?user=youzarsiph&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
-
-![Most used langs card](https://github-readme-stats.vercel.app/api/top-langs?username=youzarsiph&theme=github_dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=false&layout=compact)
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=youzarsiph)
+Thank you for visiting my profile. I am committed to driving innovation and maintaining high standards in software development practice. For any inquiries or potential collaboration opportunities, please feel free to reach out via [Github](https://github.com/youzariph) or connect with me on [LinkedIn](https://linkedin.com/in/yousuf-abu-shanab).
